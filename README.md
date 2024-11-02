@@ -1,2 +1,0 @@
-# IsaacGym-Learning
-
