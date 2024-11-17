@@ -8,16 +8,16 @@
 
 安装环境：
 
-|  项目  |             描述             |
-| :----: | :--------------------------: |
-|   OS   |      Ubuntu 20.04.6 LTS      |
-| kernel |      5.15.0-117-generic      |
-|  CPU   | Intel® Core™ i9-14900KF × 32 |
-|  RAM   |             32GB             |
-|  GPU   |   NVIDIA GeForce RTX 3070    |
-|  VRAM  |             8GB              |
-| Driver |          535.183.01          |
-|  CUDA  |             12.2             |
+|  项目  |               描述               |
+| :----: | :------------------------------: |
+|   OS   |        Ubuntu 22.04.5 LTS        |
+| kernel |         6.8.0-48-generic         |
+|  CPU   |     Intel® Core™ i9-14900KF      |
+|  RAM   |               32GB               |
+|  GPU   | NVIDIA GeForce RTX 4070 Ti SUPER |
+|  VRAM  |               16GB               |
+| Driver |            535.183.01            |
+|  CUDA  |               12.2               |
 
 
 
@@ -45,9 +45,35 @@ Isaac Sim是建立在Omniverse平台之上的一个应用程序，所以要先�
 
 ![2024-11-05_21-50](./img/2024-11-05_21-50.png)
 
-登录后一路点继续，最后进入如下界面：
+登录后一路点继续，最后进入如下界面，Omniverse Launcher 就安装成功了：
 
 ![2024-11-05_21-55](./img/2024-11-05_21-55.png)
+
+
+
+## 1.2 检查兼容性
+
+NVIDIA Omniverse 提供了 `Isaac Sim Compatibility Checker` 软件，用于检查 `Isaac Sim` 对电脑系统配置和兼容性的要求。
+
+在交易所（Exchange）中搜索 `Isaac Sim`，点击下面应用中的 `ISAAC SIM COMPATIBILITY CHECKER` 进入安装界面：
+
+![image-20241117223147761](img/image-20241117223147761.png)
+
+
+
+
+
+
+
+
+
+## 1.3 安装 Isaac Sim
+
+
+
+
+
+在交易所（Exchange）中搜索 `Isaac Sim`：
 
 在交易所（Exchange）中搜索 `Isaac Sim`：
 
@@ -63,7 +89,11 @@ Isaac Sim是建立在Omniverse平台之上的一个应用程序，所以要先�
 
 ![2024-11-05_22-21](./img/2024-11-05_22-21.png)
 
-安装过程中会提示安装 `cache` ，它提供一种软件缓存服务，可优化 Omniverse 应用程序和连接器之间的数据传输，建议安装它。安装方法和 `Isaac Sim` 一样，在交易所（Exchange）中搜索 `cache` ，点击下面应用中的 `OMNIVERSE CACHE` 进入安装界面，安装。
+安装过程中会提示安装 `cache` ，
+
+图
+
+它提供一种软件缓存服务，可优化 Omniverse 应用程序和连接器之间的数据传输，建议安装它。安装方法和 `Isaac Sim` 一样，在交易所（Exchange）中搜索 `cache` ，点击下面应用中的 `OMNIVERSE CACHE` 进入安装界面，安装。
 
 ![2024-11-05_22-41](./img/2024-11-05_22-41.png)
 
@@ -93,13 +123,7 @@ Isaac Sim是建立在Omniverse平台之上的一个应用程序，所以要先�
 
 
 
-
-
-
-
-
-
-
+https://docs.omniverse.nvidia.com/nucleus/latest/index.html
 
 
 
